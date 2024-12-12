@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 # 💫 About Me:
 🔬 I am an aspiring data analyst and data scientist.<br>👨‍💻I'm proficient in Python, SQL, and various data science libraries and tools.<br>💡I have a passion for uncovering insights from data and solving complex problems through analysis and visualization.<br>📈My goal is to leverage data-driven solutions to drive impactful decisions.
 
@@ -19,20 +19,19 @@
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 </p>
 
-📫 How to reach me **soninancy1509@gmail.com**
-👨‍💻 All of my projects are available at **[GitHub Repositories](https://github.com/thisisnancy?tab=repositories)**
+-📫 How to reach me **soninancy1509@gmail.com**  
+-👨‍💻 All of my projects are available at **[GitHub Repositories](https://github.com/thisisnancy?tab=repositories)**
 
 <h3 align="center" style="margin-top: 50px;">📊 Stats:</h3>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisnancy&layout=compact&theme=tokyonight" alt="thisisnancy" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thisisnancy&show_icons=true&locale=en&theme=tokyonight" alt="thisisnancy" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=thisisnancy&theme=tokyonight" alt="thisisnancy" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisnancy&layout=compact&theme=dracula" alt="thisisnancy" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thisisnancy&show_icons=true&locale=en&theme=dracula" alt="thisisnancy" />
 </div>
 
 
 <h2 align="center" style="margin-top: 60px;">⚡ Activity Graph:</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thisisnancy&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thisisnancy&theme=dracula"/>
 </div>
 
 ---
